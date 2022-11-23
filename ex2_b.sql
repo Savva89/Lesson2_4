@@ -1,0 +1,4 @@
+SELECT
+FIO
+FROM Personal
+ORDER BY FIO
